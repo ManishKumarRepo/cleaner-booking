@@ -78,7 +78,8 @@ services:
 volumes:
   db_data:
 ```
-
+#### Swagger URL
+> http://localhost:8080/swagger-ui/index.html
 
 ## REST API Endpoints
 #### Vehicle Management
